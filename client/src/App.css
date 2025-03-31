@@ -1,0 +1,18 @@
+
+.list-item{
+border: black 1px solid;
+width: 40vw;
+}
+
+
+.navBar{
+  background-color: red;
+}
+
+.nav-link{
+  color:yellow;
+}
+
+.unselected{
+  color: purple;
+}
